@@ -1,4 +1,4 @@
-# 👋 Olá! Eu sou o Lucas Henrique Oliveira
+# 👋 Eai! Eu sou o Lucas Henrique Oliveira
 
 🎯 **Salesforce Developer Jr | Trailhead Active**  
 🧠 Trilha concluída: *Desenvolvedor Salesforce Iniciante*  
