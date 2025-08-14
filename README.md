@@ -1,9 +1,9 @@
 # Olá! Sou o Lucas Henrique Oliveira
 
- **Salesforce Developer Jr | Trailhead Active**  
+ **Salesforce Developer Jr**  
  Trilha concluída: *Desenvolvedor Salesforce Iniciante*  
  Superbadges concluídos: *Screen Flow Fundamentals* · *Record-Triggered Flow*  
- Foco em: **Apex · Flow Builder · SOQL · LWC · Git · Segurança na Plataforma**
+ Foco em: **Apex · Flow Builder · SOQL · LWC · APIs · Git · Segurança na Plataforma**
 
  Formação: Análise e Desenvolvimento de Sistemas - Uniube  
  Atuando com desenvolvimento Salesforce, aplicando automações, lógica de negócios e personalizações com foco em boas práticas e evolução contínua.
