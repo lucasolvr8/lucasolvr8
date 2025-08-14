@@ -25,7 +25,7 @@
 
 ## Habilidades Técnicas
 
-- **Desenvolvimento Salesforce:** Apex (triggers, classes, test classes), SOQL, Flow Builder, LWC, Visualforce.  
+- **Desenvolvimento Salesforce:** Apex (triggers, classes, test classes), SOQL, Flow Builder, LWC.  
 - **Personalizações:** Objetos personalizados, validações, layouts, relacionamentos (Lookup, Master-Detail).  
 - **Integrações & DevOps:** Named Credentials, deploy via Sandbox, Git/GitHub, Salesforce CLI.  
 - **Outros:** JavaScript, HTML, CSS, Python (básico), VS Code, Developer Console.
