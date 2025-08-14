@@ -1,28 +1,41 @@
-# 👋 Eai! Eu sou o Lucas Henrique Oliveira
+# Eai! Eu sou o Lucas Henrique Oliveira
 
-🎯 **Salesforce Developer Jr | Trailhead Active**  
-🧠 Trilha concluída: *Desenvolvedor Salesforce Iniciante*  
-🏅 Superbadge em andamento: *Flow Fundamentals*  
-🔧 Foco em: Apex · Flow Builder · SOQL · LWC · Git · Segurança na plataforma  
+ **Salesforce Developer Jr | Trailhead Active**  
+ Trilha concluída: *Desenvolvedor Salesforce Iniciante*  
+ Superbadges concluídos: *Screen Flow Fundamentals* · *Record-Triggered Flow*  
+ Foco em: **Apex · Flow Builder · SOQL · LWC · Git · Segurança na Plataforma**
 
-📚 Formação: Análise e Desenvolvimento de Sistemas - Uniube  
-🔍 Buscando minha primeira oportunidade como Dev Salesforce Jr (CLT ou Estágio)
-
----
-
-## 🚀 Projetos em Destaque
-
-- 🎯 **[FinControl](https://github.com/lucasolvr8/FinControl)**  
-  Projeto de controle financeiro com HTML, CSS e JS
-
-- 🔧 *Superbadges e exercícios práticos em breve!*
+ Formação: Análise e Desenvolvimento de Sistemas - Uniube  
+ Atuando com desenvolvimento Salesforce, aplicando automações, lógica de negócios e personalizações com foco em boas práticas e evolução contínua.
 
 ---
 
-📫 Conecte-se comigo:  
+## Projetos e Conquistas
+
+-  **[Screen Flow Fundamentals Superbadge](https://trailblazer.me/id/lucasolvr8)**  
+  Automação de processos com Flow Builder, decisões condicionais e manipulação de registros.
+
+-  **Record-Triggered Flow Superbadge Unit**  
+  Criação de automações acionadas por registros com foco em performance e impacto controlado.
+
+-  **[FinControl](https://github.com/lucasolvr8/FinControl)**  
+  Projeto de controle financeiro com HTML, CSS e JS.
+
+---
+
+## Habilidades Técnicas
+
+- **Desenvolvimento Salesforce:** Apex (triggers, classes, test classes), SOQL, Flow Builder, LWC, Visualforce.  
+- **Personalizações:** Objetos personalizados, validações, layouts, relacionamentos (Lookup, Master-Detail).  
+- **Integrações & DevOps:** Named Credentials, deploy via Sandbox, Git/GitHub, Salesforce CLI.  
+- **Outros:** JavaScript, HTML, CSS, Python (básico), VS Code, Developer Console.
+
+---
+
+📫 **Conecte-se comigo:**  
 [LinkedIn](https://www.linkedin.com/in/lucasolvr8) | [GitHub](https://github.com/lucasolvr8)
 
-#OpenToWork #SalesforceDeveloper #DevJr
+---
 
 
 <!--
