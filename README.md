@@ -2,7 +2,9 @@
 
  **Salesforce Developer Jr**  
  Diversas trilhas concluídas no Trailhead com foco em Desenvolvimento 
+ 
  Superbadges concluídos: *Screen Flow Fundamentals* · *Record-Triggered Flow*  
+ 
  Foco em: **Apex · LWC · SOQL · APIs · Git · Flow Builder · Segurança na Plataforma**
 
  Formação: Análise e Desenvolvimento de Sistemas - Uniube  
