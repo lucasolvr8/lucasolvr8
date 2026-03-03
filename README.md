@@ -1,40 +1,32 @@
-# Olá! Sou o Lucas Henrique Oliveira
+# Eai! Tudo bem? Sou o Lucas Henrique Oliveira.
 
- **Salesforce Developer Jr**  
-  
- Foco em: **Apex · JavaScript · LWC · HTML/CSS · SOQL · APIs · Flow Builder · Segurança na Plataforma**
+Salesforce Developer Jr focado em desenvolvimento com Apex,
+Lightning Web Components e modelagem de soluções na plataforma.
 
- Cursando: Análise e Desenvolvimento de Sistemas - Uniube (Fim em 2026)
- 
- Atuando com desenvolvimento Salesforce, aplicando automações, lógica de negócios e personalizações com foco em boas práticas e evolução contínua.
-
----
-
-## Projetos e Superbadges
-
--  **[Screen Flow Fundamentals Superbadge](https://trailblazer.me/id/lucasolvr8)**  
-  Automação de processos com Flow Builder, decisões condicionais e manipulação de registros.
-
--  **Record-Triggered Flow Superbadge Unit**  
-  Criação de automações acionadas por registros com foco em performance e impacto controlado.
-
--  **Mais projetos com foco em Salesforce serão postados em breve..**  
+Atualmente desenvolvendo o **Salesforce Architecture Lab**, um repositório
+com cenários simulados de domínio voltados para decisões arquiteturais,
+operações bulk-safe e separação clara de responsabilidades.
 
 ---
 
-## Habilidades Técnicas
+## Stack
 
-- **Desenvolvimento Salesforce:** Apex (triggers, classes, test classes), SOQL, Flow Builder, LWC, Security (FLS, Profiles, Permission Sets).  
-- **Integrações & DevOps:** APIs, Postman, Salesforce CLI, Change Sets, Git/Github  
-- **Ferramentas e Tecnologias:** Sales Cloud & Service Cloud, JavaScript, HTML, VS Code, Salesforce Inspector
+![Salesforce](https://img.shields.io/badge/Salesforce-Platform-00A1E0?logo=salesforce&logoColor=white)
+![Apex](https://img.shields.io/badge/Apex-Language-1798c1?logo=salesforce&logoColor=white)
+![SOQL](https://img.shields.io/badge/SOQL-Query%20Language-blue)
+![LWC](https://img.shields.io/badge/LWC-Lightning%20Web%20Components-00A1E0)
+
+![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow?logo=javascript)
+![Git](https://img.shields.io/badge/Git-Version%20Control-red?logo=git)
+![REST](https://img.shields.io/badge/REST-APIs-lightgrey)
 
 ---
 
-📫 **Conecte-se comigo:**  
-[LinkedIn](https://www.linkedin.com/in/lucasolvr8)
+## Contato
 
----
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucasolvr8)
+[![Trailhead](https://img.shields.io/badge/Trailhead-00A1E0?logo=salesforce&logoColor=white)](https://www.salesforce.com/trailblazer/t95n2y842iilu89rr1)
+[![Email](https://img.shields.io/badge/Email-grey?logo=gmail&logoColor=white)](mailto:lucashenrique.olvr@gmail.com)
 
 <!--
 **lucasolvr8/lucasolvr8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
